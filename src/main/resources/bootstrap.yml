@@ -3,4 +3,4 @@ spring:
     config:
       server:
         git:
-          uri: D:\IdeaProjects\config-server
+          uri: https://github.com/YuraFedorenko/config-server
